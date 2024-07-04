@@ -27,6 +27,14 @@ color: #fff;
 
 }
 
+.centro{
+  position: absolute;
+  text-align: center;
+  font-size: 4rem;
+  background-color: rgba(0,0,0,0.5);
+  padding: 30px 0;
+
+}
 
 p {
 text-align: center;
