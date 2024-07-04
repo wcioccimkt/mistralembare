@@ -21,7 +21,7 @@ background-color: white;
 header {
 display: flex;
 justify-content: center;
-background-color: #fff;
+background-color: white;
 color: #fff;
 
 
@@ -32,9 +32,8 @@ color: #fff;
   text-align: center;
   font-size: 3rem;
   background-color: rgba(0,0,0,0.5);
-  padding: 20px;
+  padding: 10px;
   width: 100%;
-  
   justify-content: center;
 
   
