@@ -12,7 +12,7 @@ overflow-x: hidden !important;
 body {
 
 background-color: white;
-overflow-x: hidden;
+
 
 }
 
@@ -58,7 +58,7 @@ h1 {
 text-align: center;
 padding: 4rem;
 font-size: 3rem;
-max-width:1080px;
+max-width:880px;
 }
 
 
