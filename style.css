@@ -34,7 +34,8 @@ color: #fff;
   background-color: rgba(0,0,0,0.5);
   padding: 20px;
   width: 100%;
-  line-height: normal;
+  
+  justify-content: center;
 
   
 }
