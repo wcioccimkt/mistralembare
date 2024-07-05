@@ -21,7 +21,7 @@ background-color: white;
   padding: 15px;
   width: 250px;
   color: white;
-  background: red;
+  background: #C30011;
   text-align: center;
   border-radius: 10px;
   cursor: pointer;
@@ -153,7 +153,7 @@ margin-bottom:120px;
   }
   
   input[type="submit"] {
-    background-color: red;
+    background-color:#C30011;
     color: white;
     padding: 20px 20px;
     margin:12px 0;
@@ -176,7 +176,7 @@ margin-bottom:120px;
   display: flex;
   align-items: center;
   justify-content: space-between;
-  background-color: red;
+  background-color: #C30011;
   padding: 10px; 
   font-size:8px; 
   color: white;
