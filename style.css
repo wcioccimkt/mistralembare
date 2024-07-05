@@ -25,6 +25,7 @@ background-color: white;
   text-align: center;
   border-radius: 10px;
   cursor: pointer;
+  
 }
 
 header {
@@ -127,7 +128,6 @@ h6 {
 a {font-size: 13px;color: white;
 text-decoration: none;
 }
-
 
 
 form {
