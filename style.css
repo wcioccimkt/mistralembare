@@ -6,6 +6,11 @@ width: 100%;
 font-family: "Poppins", sans-serif;
 
 }
+
+html{
+  scroll-behavior: smooth;
+}
+
 html, body{
 overflow-x: hidden !important; 
 }
@@ -27,6 +32,21 @@ background-color: white;
   border-radius: 10px;
   cursor: pointer;
   
+}
+
+.top{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: red;
+  width: 40px;
+  height: 40px;
+  right: 20px;
+  color: white;
+  bottom: 20px;
+  position: fixed;
+  transition: all ease 400ms;
+
 }
 
 header {
