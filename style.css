@@ -3,6 +3,7 @@ margin: 0 auto;
 padding: 0;
 box-sizing: border-box;
 width: 100%;
+font-family: "Poppins", sans-serif;
 
 }
 html, body{
@@ -19,7 +20,7 @@ background-color: white;
 .btn{
   
   padding: 15px;
-  width: 250px;
+  width: 150px;
   color: white;
   background: #C30011;
   text-align: center;
@@ -37,7 +38,7 @@ color: #fff;
 
 }
 
-.centro{
+.menu{
   display: flex;
   flex-flow: row nowrap;
   position: absolute;
@@ -49,11 +50,31 @@ color: #fff;
   margin-top:5%;
   align-items: center;
   justify-content: center;
-  padding: 20px;
-  
-
+  padding: 10px;
+  margin: auto;
 }
 
+
+.menu nav a{
+    
+    display: inline;
+    font-size: 16px;
+    padding: 30px;
+    
+    
+  }
+  
+  .botao nav a{
+    background-color: #C30011;
+    text-decoration: none;
+    display: block;
+    border-radius: 10px;
+    justify-content: space-around;
+    padding: 10px;
+    width: 150px;
+  
+  }
+  
 p {
 text-align: center;
 padding: 2rem;
@@ -192,3 +213,9 @@ margin-bottom:120px;
   
   }
 
+  @media screen and (max-width: 1030px){
+    .menu {
+      display: none;
+    }
+    
+  }
