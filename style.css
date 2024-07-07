@@ -99,7 +99,7 @@ p {
 text-align: center;
 padding: 2rem;
 font-size: 22px;
-font-family: inter;
+
 
 }
 
@@ -124,7 +124,7 @@ padding: 30px;
 
 h1 {
 text-align: center;
-padding: 2rem;
+padding: 50px;
 font-size: 3rem;
 max-width:100%;
 }
@@ -138,9 +138,8 @@ max-width: 700px;}
 
 h3 {
 text-align: center;
-padding: 30px;
-font-size: 18px;
-font-family: inter;
+padding: 2rem;
+font-size: 2rem;
 font-weight: 600px;
 
 }
@@ -148,29 +147,21 @@ font-weight: 600px;
 h4 {
 
 text-align: center;
-padding: 60px;
-font-size: 2rem;
-font-family: inter;
+padding: 30px;
+font-size: 1rem;
+font-weight: 600px;
+max-width: 800px;
 
 }
 
 h5 {
 text-align: center;
-padding: 5px;
-margin-bottom: 4rem;
+padding: 30px;
 font-size: 1rem;
 font-family: inter;
-max-width: 600px;
+max-width: 800px;
 
 }
-
-h6 {
-
-  text-align: right;
-  padding: 10px;
-  font-size: 8px;
-  font-family: inter;
-  }
 
 
 a {font-size: 13px;color: white;
@@ -233,9 +224,50 @@ margin-bottom:120px;
   
   }
 
-  @media screen and (max-width: 1030px){
+  @media screen and (max-width: 1020px){
     .menu {
       display: none;
     }
+
+    p {
+      text-align: center;
+      padding: 1rem;
+      font-size: 1rem;
+      
+    }
+
+    h5 {
+      text-align: left;
+      padding: 2rem;
+      font-size: 1rem;
+      
+      }
+      
+    h1 {
+        text-align: center;
+        padding: 2rem;
+        font-size: 2rem;
+        
+        }
     
+
+        h2 {
+          text-align: center;
+          padding: 2rem;
+          font-size: 1rem;}
+          
+
+        h3 {
+          text-align: center;
+          padding: 2rem;
+          font-size: 2rem;
+        }
+      
+        h4 {
+
+          text-align: left;
+          padding: 2rem;
+          font-size: 1rem;
+          
+          }
   }
