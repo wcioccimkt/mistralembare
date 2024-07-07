@@ -155,11 +155,11 @@ max-width: 800px;
 }
 
 h5 {
-text-align: center;
-padding: 30px;
-font-size: 1rem;
-font-family: inter;
-max-width: 800px;
+  text-align: center;
+  padding: 30px;
+  font-size: 1rem;
+  font-weight: 600px;
+  max-width: 800px;
 
 }
 
@@ -254,7 +254,8 @@ margin-bottom:120px;
         h2 {
           text-align: center;
           padding: 2rem;
-          font-size: 1rem;}
+          font-size: 1rem;
+        }
           
 
         h3 {
