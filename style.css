@@ -3,7 +3,7 @@ margin: 0 auto;
 padding: 0;
 box-sizing: border-box;
 width: 100%;
-font-family: "Poppins", sans-serif;
+font-family: "Inter", sans-serif;
 
 }
 
@@ -140,7 +140,7 @@ h3 {
 text-align: center;
 padding: 2rem;
 font-size: 2rem;
-font-weight: 600px;
+font-weight: 400px;
 
 }
 
